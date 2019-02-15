@@ -1,0 +1,15 @@
+﻿  binarization_RGBDlg.cpp
+c:\users\juheesvt\source\repos\binarization_rgb\binarization_rgb\imagesrc\myimage.h(80): warning C4244: '=': 'From'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              From=double
+          ]
+          and
+          [
+              T=BYTE
+          ]
+  c:\users\juheesvt\source\repos\binarization_rgb\binarization_rgb\binarization_rgbdlg.cpp(183): note: 컴파일 중인 함수 템플릿 인스턴스화 'CMyImage<BYTE>::CMyImage<double>(const CMyImage<double> &)'에 대한 참조를 확인하십시오.
+  c:\users\juheesvt\source\repos\binarization_rgb\binarization_rgb\binarization_rgbdlg.cpp(183): note: 컴파일 중인 함수 템플릿 인스턴스화 'CMyImage<BYTE>::CMyImage<double>(const CMyImage<double> &)'에 대한 참조를 확인하십시오.
+  MyImageFunc.cpp
+  코드를 생성하고 있습니다...
+  binarization_RGB.vcxproj -> C:\Users\juheeSVT\source\repos\binarization_RGB\Debug\binarization_RGB.exe
